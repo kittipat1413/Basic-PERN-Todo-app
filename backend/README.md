@@ -1,6 +1,6 @@
 ## Connect to PostgreSQL database
  ```
- psql -d dbadmin -U admin
+ psql -d db_admin -U admin
  ```
 
 ## Switch connection to a new database
